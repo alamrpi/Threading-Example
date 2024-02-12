@@ -1,0 +1,14 @@
+D:\projects\learn\ThreadExample\EventExample\bin\Debug\net6.0\EventExample.exe
+D:\projects\learn\ThreadExample\EventExample\bin\Debug\net6.0\EventExample.deps.json
+D:\projects\learn\ThreadExample\EventExample\bin\Debug\net6.0\EventExample.runtimeconfig.json
+D:\projects\learn\ThreadExample\EventExample\bin\Debug\net6.0\EventExample.dll
+D:\projects\learn\ThreadExample\EventExample\bin\Debug\net6.0\EventExample.pdb
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.AssemblyInfoInputs.cache
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.AssemblyInfo.cs
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.csproj.CoreCompileInputs.cache
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.dll
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\refint\EventExample.dll
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.pdb
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\EventExample.genruntimeconfig.cache
+D:\projects\learn\ThreadExample\EventExample\obj\Debug\net6.0\ref\EventExample.dll

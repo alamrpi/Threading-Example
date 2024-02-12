@@ -1,0 +1,14 @@
+D:\projects\learn\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.exe
+D:\projects\learn\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.deps.json
+D:\projects\learn\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.runtimeconfig.json
+D:\projects\learn\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.dll
+D:\projects\learn\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.pdb
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.AssemblyInfoInputs.cache
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.AssemblyInfo.cs
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.csproj.CoreCompileInputs.cache
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.dll
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\refint\ThreadExample.dll
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.pdb
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.genruntimeconfig.cache
+D:\projects\learn\ThreadExample\ThreadExample\obj\Debug\net8.0\ref\ThreadExample.dll

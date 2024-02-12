@@ -1,0 +1,14 @@
+D:\projects\learn\ThreadExample\CSVExample\bin\Debug\net8.0\CSVExample.exe
+D:\projects\learn\ThreadExample\CSVExample\bin\Debug\net8.0\CSVExample.deps.json
+D:\projects\learn\ThreadExample\CSVExample\bin\Debug\net8.0\CSVExample.runtimeconfig.json
+D:\projects\learn\ThreadExample\CSVExample\bin\Debug\net8.0\CSVExample.dll
+D:\projects\learn\ThreadExample\CSVExample\bin\Debug\net8.0\CSVExample.pdb
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.AssemblyInfoInputs.cache
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.AssemblyInfo.cs
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.csproj.CoreCompileInputs.cache
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.dll
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\refint\CSVExample.dll
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.pdb
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\CSVExample.genruntimeconfig.cache
+D:\projects\learn\ThreadExample\CSVExample\obj\Debug\net8.0\ref\CSVExample.dll
